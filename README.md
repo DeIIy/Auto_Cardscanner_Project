@@ -1,7 +1,5 @@
 # Auto_Cardscanner_Project
 
-![MasterHead](https://images.pexels.com/photos/27773407/pexels-photo-27773407.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-
 English(İngilizce)
 
 This Python code sequentially processes JPEG images from a specified directory by uploading them to the [cardscanner.co](https://www.cardscanner.co/) website and extracting the text from these images, which is then saved to a text file. The code starts by initializing a web browser with specific options to ensure stability and performance. Once the browser is set up, the code scans the directory for JPEG images and begins processing them.
@@ -17,3 +15,5 @@ Bu Python kodu, belirli bir klasörde bulunan JPEG formatındaki görselleri sı
 Kodun ilk aşamasında, tarayıcıyı başlatmak için gerekli seçenekler belirlenir. Bu seçenekler, tarayıcının daha kararlı ve hızlı çalışmasını sağlamak amacıyla optimize edilmiştir. Tarayıcı başlatıldıktan sonra, klasördeki tüm JPEG görselleri bir döngü ile taranır. Her bir görsel için, öncelikle dosyanın var olup olmadığı kontrol edilir. Eğer dosya bulunamazsa ya da daha önce işlenmişse, bu görsel atlanır ve bir sonraki görsele geçilir.
 
 Her görsel için metin çıkarma işlemi, belirli bir hata denetim mekanizmasıyla gerçekleştirilir. Bu mekanizma, eğer bir hata ile karşılaşılırsa işlemi belirli bir sayıda yeniden denemeye olanak tanır. Görsel başarıyla yüklendiğinde ve metin çıkarma işlemi tamamlandığında, elde edilen metin bir dosyaya eklenir. İşlem sırasında herhangi bir hata oluşursa, bu hata günlükte belirtilir ve işlem yeniden denenir. Tüm görseller işlendiğinde, tarayıcı kapatılır ve işlem sonlandırılır.
+
+![MasterHead](https://images.pexels.com/photos/27773407/pexels-photo-27773407.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
