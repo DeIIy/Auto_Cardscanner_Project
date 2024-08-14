@@ -1,6 +1,7 @@
 # Auto_Cardscanner_Project
 
 ![MasterHead](https://resmim.net/cdn/2024/08/14/WJHbRL.png)
+![MasterHead](https://resmim.net/cdn/2024/08/14/WJHrTW.png)
 
 English(İngilizce)
 
