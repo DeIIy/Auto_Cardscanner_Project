@@ -1,8 +1,6 @@
 # Auto_Cardscanner_Project
 
-![MasterHead](https://resmim.net/cdn/2024/08/14/WJHbRL.png)
 ![MasterHead](https://resmim.net/cdn/2024/08/14/WJHrTW.png)
-![MasterHead](https://resmim.net/cdn/2024/08/14/WJHsO3.png)
 
 English(İngilizce)
 
@@ -21,3 +19,6 @@ Kodun ilk aşamasında, tarayıcıyı başlatmak için gerekli seçenekler belir
 Her görsel için metin çıkarma işlemi, belirli bir hata denetim mekanizmasıyla gerçekleştirilir. Bu mekanizma, eğer bir hata ile karşılaşılırsa işlemi belirli bir sayıda yeniden denemeye olanak tanır. Görsel başarıyla yüklendiğinde ve metin çıkarma işlemi tamamlandığında, elde edilen metin bir dosyaya eklenir. İşlem sırasında herhangi bir hata oluşursa, bu hata günlükte belirtilir ve işlem yeniden denenir. Tüm görseller işlendiğinde, tarayıcı kapatılır ve işlem sonlandırılır.
 
 ![MasterHead](https://images.pexels.com/photos/27773407/pexels-photo-27773407.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+![MasterHead](https://resmim.net/cdn/2024/08/14/WJHbRL.png)
+![MasterHead](https://resmim.net/cdn/2024/08/14/WJHsO3.png)
