@@ -1,5 +1,7 @@
 # Auto_Cardscanner_Project
 
+![MasterHead](https://img.imgyukle.com/2024/08/14/CC382c.png)
+
 English(İngilizce)
 
 This Python code sequentially processes JPEG images from a specified directory by uploading them to the [cardscanner.co](https://www.cardscanner.co/) website and extracting the text from these images, which is then saved to a text file. The code starts by initializing a web browser with specific options to ensure stability and performance. Once the browser is set up, the code scans the directory for JPEG images and begins processing them.
