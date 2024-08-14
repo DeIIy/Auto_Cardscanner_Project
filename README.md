@@ -1,6 +1,6 @@
 # Auto_Cardscanner_Project
 
-![MasterHead]([[[[[https://media.licdn.com/dms/image/D4D16AQE6KUMShNM2Dw/profile-displaybackgroundimage-shrink_350_1400/0/1723226480724?e=1728518400&v=beta&t=g4fHfwunP2E4sG5iGc7z3kPf-4UP38UI0im_PYHhRkY](https://i.imgur.com/MRL2tou.png)](https://imgur.com/a/bI4yl5Z)](https://hizliresim.com/av6eop0)](https://hizliresim.com/5uwl6hy)](https://pixabay.com/tr/photos/ku%C5%9F-ser%C3%A7e-kahverengi-ku%C5%9F-ku%C5%9F-t%C3%BCy%C3%BC-8785666/))
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQE6KUMShNM2Dw/profile-displaybackgroundimage-shrink_350_1400/0/1723226480724?e=1728518400&v=beta&t=g4fHfwunP2E4sG5iGc7z3kPf-4UP38UI0im_PYHhRkY)
 
 English(İngilizce)
 
