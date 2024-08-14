@@ -1,6 +1,6 @@
 # Auto_Cardscanner_Project
 
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQE6KUMShNM2Dw/profile-displaybackgroundimage-shrink_350_1400/0/1723226480724?e=1728518400&v=beta&t=g4fHfwunP2E4sG5iGc7z3kPf-4UP38UI0im_PYHhRkY)
+![MasterHead](https://images.pexels.com/photos/17550989/pexels-photo-17550989/free-photo-of-adam-bina-yapi-duvar.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 English(İngilizce)
 
