@@ -1,6 +1,6 @@
 # Auto_Cardscanner_Project
 
-![MasterHead]([https://images.pexels.com/photos/17550989/pexels-photo-17550989/free-photo-of-adam-bina-yapi-duvar.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1](https://images.pexels.com/photos/27773407/pexels-photo-27773407.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1))
+![MasterHead](https://images.pexels.com/photos/27773407/pexels-photo-27773407.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 English(İngilizce)
 
